@@ -17,11 +17,11 @@
             </div>
             <h2>Excelデーター入力作業に時間がない方</h2>
             <h2>お気軽にご連絡ください。</h2>
-            <h2>依頼いただいた内容守秘事項として管理いたします。</h2>
+            <h2>依頼いただいた内容守秘事項といたします。</h2>
             <div class="cpntainer">
                 <div class="item01">
              <main>
-                <h2>ようこそ！　美龍へ</h2>
+                <h2>Ryubi</h2>
              </main
         </header>
         <link rel="stylesheet" href="style.css"/>
