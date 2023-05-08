@@ -23,7 +23,7 @@
             <div class="cpntainer">
                 <div class="item01">
              <main>
-                <h2>Ryubi</h2>
+                <h2>オフィスシンプル</h2>
              </main
         </header>
         <link rel="stylesheet" href="style.css"/>
